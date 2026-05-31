@@ -1,0 +1,13 @@
+1. Calculate how many days have passed since each vehicle was sold. (Using - TODAY Function) (Created column name at V column)
+
+2. Display the current date and time. (Using - NOW Function) (Created column name at V column) 
+
+3. Calculate the age of each sale record in days from SaleDate until today. (Using - DATEDIF Function) (Created column name at V column)
+
+4. Extract the year from SaleDate. (Using - YEAR Function) (Created column name at V column)
+
+5. Extract the month number from SaleDate. (Using - MONTH Function) (Created column name at V column)
+
+6. Extract the day from SaleDate. (Using - DAY Function) (Created column name at V column)
+
+7. Find the last day of the month for each SaleDate. (Using - EOMONTH Function) (Created column name at V column)
