@@ -1,0 +1,17 @@
+1. Extract the first 3 characters from InvoiceID. (Using - LEFT Function) (Created column name at V column)
+
+2. Extract the last 4 characters from InvoiceID. (Using - RIGHT Function) (Created column name at V column)
+
+3. Extract 4 characters starting from the 3rd position in InvoiceID.  (Using - MID Function) (Created column name at V column)
+
+4. Find the total number of characters in InvoiceID. (Using - LEN Function) (Created column name at V column)
+
+5. Remove extra spaces from Customer Name. (Using - TRIM Function) (Created column name at V column)
+
+6. Combine Model Name and Fuel Type. (Using - CONCAT Function) (Created column name at V column)
+
+7. Join Model Name, Fuel Type, and Sales Channel. (Using - TEXTJOIN Function) (Created column name at V column)
+
+
+
+
