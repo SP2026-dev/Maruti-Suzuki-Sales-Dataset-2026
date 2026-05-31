@@ -1,0 +1,22 @@
+1. Calculate the total OnRoadPrice of all vehicles sold.  (Using - SUM Function) (Created column name at V column)
+
+2. Find the average SatisfactionScore of customers. (Using - AVERAGE Function) (Created column name at V column)
+
+3. Count how many records contain numeric values in the UnitsSold column. (Using - COUNT Function) (Created column name at V column)
+
+4. Count the total number of non-blank InvoiceID entries. (Using - COUNTA Function) (Created column name at V column)
+
+5. Count how many sales were made through the NEXA channel. (Using - COUNTIF Function) (Created column name at V column)
+
+6. Count the number of Petrol vehicles sold through Arena channel. (Using - COUNTIFS Function) (Created column name at V column)
+
+7. Calculate total Profit Approximation earned from Arena channel sales. (Using - SUMIF Function) (Created column name at V column)
+
+8. Calculate total OnRoadPrice for Petrol vehicles sold through NEXA. (Using - SUMIFS Function) (Created column name at V column)
+
+9. Find the average BookingToDeliveryDays for Individual customers. (Using - AVERAGEIF Function) (Created column name at V column)
+
+10. Find the average Profit Approximation for Petrol vehicles sold through NEXA. (Using - AVERAGEIFS Function) (Created column name at V column)
+
+
+
