@@ -1,0 +1,24 @@
+1. Using InvoiceID, retrieve the corresponding FuelType. (Using - VLOOKUP Function) (Created column name at V column)
+
+2. Retrieve SatisfactionScore using ProductID. (Using - XLOOKUP Function) (Created column name at V column)
+
+3. Assume Year-wise Sales Summary is arranged horizontally. Retrieve sales for 2024. (Using - HLOOKUP Function) (Created column name at E column)
+2021	2022	2023	2024
+1500	1800	2100	2500
+
+4. Retrieve Profit Approximation using ProductID.  (Using - INDEX + MATCH Function) (Created column name at V column)
+
+5. Convert Quarter Number into Quarter Name. (Using - CHOOSE Function) (Created column name at V column)
+Quarter No
+1
+2
+3
+4
+
+6. Return the value 3 rows below the current SatisfactionScore.  (Using - OFFSET Function) (Created column name at V column)
+
+7. Return the cell address of row 50 and column 12. (Using - ADDRESS Function) (Created column name at V column)
+
+8. Retrieve the value stored in cell L10 using a text reference. (Using - INDIRECT Function) (Created column name at V column)
+
+
