@@ -1,0 +1,6 @@
+1. Extract a list of unique Fuel Types from the dataset. (Using - UNIQUE Function) (Created column name at V column)
+
+2. Generate serial numbers from 1 to 20. (Using - SEQUENCE Function) (Created column name at V column)
+
+3. Retrieve the value from cell L10 using a text reference. (Using - INDIRECT Function) (Created column name at V column)
+
