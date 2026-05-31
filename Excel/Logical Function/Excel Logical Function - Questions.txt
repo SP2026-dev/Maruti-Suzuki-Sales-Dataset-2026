@@ -1,0 +1,32 @@
+1. If Satisfaction Score is 80 or above, display "Satisfied", otherwise "Unsatisfied". (Using - IF Function) (Created column name at V column)
+
+2. Grade customer satisfaction. (Using - IFS Function) (Created column name at V column)
+90+ = Excellent
+80-89 = Good
+70-79 = Average
+Below 70 = Poor
+
+3. Check whether a customer is Corporate and paid through Loan. (Using - AND Function) (Created column name at V column)
+
+4. Check whether payment mode is Cash or Loan. (Using - OR Function) (Created column name at V column)
+
+5. Retrieve CustomerType using VLOOKUP and show "Not Found" if an error occurs. (Using - IFERROR Function) (Created column name at V column)
+
+6. Use XLOOKUP to find Satisfaction Score and display "No Record" if not found.  (Using - IFNA Function) (Created column name at V column)
+
+7. Convert Quarter Column into Full Quarter Name.  (Using - SWITCH Function) (Created column name at V column)
+
+8. Check if either Fuel Type is Petrol OR Payment Mode is Loan, but not both. (Using - XOR Function) (Created column name at V column)
+
+9. Return TRUE if Satisfaction Score exceeds 80. (Using - TRUE Function) (Created column name at V column)
+
+10. Return FALSE if Profit is negative. (Using - FALSE Function) (Created column name at V column)
+
+11. Determine whether a customer is satisfied using LET. (Using - LET Function) (Created column name at V column)
+
+
+
+
+
+
+
