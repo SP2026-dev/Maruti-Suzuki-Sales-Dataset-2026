@@ -1,4 +1,5 @@
 ## Maruti Suzuki Sales Analytics Dashboard
+An end-to-end Sales Analytics project built using Excel, SQL, and Power BI to analyze revenue, profit, dealer performance, customer satisfaction, and sales trends across India.
 
 ## Overview:
 This project is a Sales Analytics Dashboard built using Excel, SQL, and Power BI to analyze Maruti Suzuki sales performance from 2020 to 2025.
